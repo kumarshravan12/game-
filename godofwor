@@ -1,0 +1,6 @@
+#include<stdio.h>
+int maion()
+{
+printf("hii");
+return 0;
+}
